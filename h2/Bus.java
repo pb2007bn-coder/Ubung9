@@ -1,7 +1,7 @@
 package h2;
 import java.util.ArrayList;
 public class Bus {
-  private ArrayList  <Passenger> passenger;
+  public ArrayList  <Passenger> passenger;
   
   public Bus(){
     passenger = new ArrayList <Passenger>();
